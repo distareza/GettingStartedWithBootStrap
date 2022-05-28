@@ -13,4 +13,8 @@ Bootstrap is a Front-End Library
 4. Try navigate template, go to "Navbar" and copy the content of html element
 ![alt text](https://github.com/distareza/GettingStartedWithBootStrap/blob/main/resources/copy_navigate_element.png?raw=true)  
 
-5.
+5. Update your index html
+![alt text](https://github.com/distareza/GettingStartedWithBootStrap/blob/main/resources/your_index_html.png?raw=true)  
+
+6. Open in Browser
+![alt text](https://github.com/distareza/GettingStartedWithBootStrap/blob/main/resources/index_html.png?raw=true)  
