@@ -18,3 +18,7 @@ Bootstrap is a Front-End Library
 
 6. Open in Browser
 ![alt text](https://github.com/distareza/GettingStartedWithBootStrap/blob/main/resources/index_html.png?raw=true)  
+
+7. Try to resize the Browser, and see the effect
+![alt text](https://github.com/distareza/GettingStartedWithBootStrap/blob/main/resources/index_html_small_01.png?raw=true)  
+![alt text](https://github.com/distareza/GettingStartedWithBootStrap/blob/main/resources/index_html_small_02.png?raw=true)  
